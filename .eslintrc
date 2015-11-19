@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "atom": true,
+  },
+  "rules": {
+    "no-console": 0
+  }
+}
